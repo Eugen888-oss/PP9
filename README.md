@@ -117,7 +117,18 @@ Reflection:
 
 * **Explain how each flowchart node maps to your C code.**
 
----
+Start: X:
+Das ist der main () Befehl.
+Initialize result= 1:
+Dss ist über die Definition der Variable int result = 1.
+I = 1 to x? :
+Das wird über die for-Schleife gelöst.
+I %2 ==0?:
+Wird über eine if else Anweisung gelöst.
+result | 1000?:
+Wird über eine if else Anweisung gelöst.
+Increment i:
+Ist in der for Schleife integriert.
 
 ### Task 3: Code-to-Flowchart
 
